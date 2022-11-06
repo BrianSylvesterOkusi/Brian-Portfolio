@@ -11,7 +11,7 @@ At the end of the project, the option greeks are calculated. We also plot the op
  * Implementing the closed form solution based on the Black-Scholes equation
  * Plotting the option prices against strike prices
  * Calculating the option greeks
- * 
+ 
 ## Project 2: Pricing European Up-and-Out options using Monte Carlo Simulation
 This is a research on using Monte Carlo Simulation to price path dependent exotic options. 
 The Up-and-Out barrier option barrier option was chosen for this project.
