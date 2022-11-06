@@ -16,8 +16,8 @@ At the end of the project, the option greeks are calculated. We also plot the op
 This is a research on using Monte Carlo Simulation to price path dependent exotic options. 
 The Up-and-Out barrier option barrier option was chosen for this project.
 This type of option expires when the underlying stock price touches the barrier level. Otherwise, the option will stay active and give a payoff at the maturity.
-* The Risk-Neutral-Pricing is considered in the valuation of path dependent options using Monte Carlo Simulation
-* Risk-neutral stock prices paths will be simulated 
+  * The Risk-Neutral-Pricing is considered in the valuation of path dependent options using Monte Carlo Simulation
+  * Risk-neutral stock prices paths will be simulated 
 ### Steps followed
   * Defining and initializing the option parameters: Stock price, Strike price, Barrier, Interest rate, Dividend yield, Expiry, Volatility, Number of time steps and   simulations
   * Implementing iterations for the Monte Carlo Simulation; simulating stock prices using the Geometric Brownian Motion
