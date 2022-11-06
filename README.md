@@ -12,7 +12,7 @@ At the end of the project, the option greeks are calculated. We also plot the op
  * Plotting the option prices against strike prices
  * Calculating the option greeks
  
-## Project 2: Pricing European Up-and-Out options using Monte Carlo Simulation
+## [Project 2: Pricing European Up-and-Out options using Monte Carlo Simulation](https://github.com/BrianSylvesterOkusi/Pricing-European-Up-and-Out-options-using-Monte-Carlo-Simulation)
 This is a research on using Monte Carlo Simulation to price path dependent exotic options. 
 The Up-and-Out barrier option barrier option was chosen for this project.
 This type of option expires when the underlying stock price touches the barrier level. Otherwise, the option will stay active and give a payoff at the maturity.
